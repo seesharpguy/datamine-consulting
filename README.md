@@ -1,33 +1,12 @@
-# gatsby-starter-business
-A [Gatsby v2](https://www.gatsbyjs.org/) and [Netlify CMS](https://www.netlifycms.org) powered generic business website.
+# datamine consulting
+
+This is the front end for my consulting company Datamine Consulting. Built with [Gatsby v2](https://www.gatsbyjs.org/) and [Netlify CMS](https://www.netlifycms.org).
 
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
-
-## Demo
-[Gatsby Starter Business](https://gatsby-starter-business.netlify.com)
-
-## Features
-* Complete Business Website Suite - Home Page, About Page, Pricing Page, Contact Page and Blog
-* Netlify CMS for Content Management
-* SEO Friendly (Sitemap, Schemas, Meta Tags, GTM etc)
-* Bulma and Sass Support for styling
-* Progressive Web App & Offline Support
-* Tags and RSS Feed for Blog
-* Disqus and Share Support
-* Elastic-Lunr Search (NEW)
-* Pagination (NEW)
-* Contact Form (Netlify Forms)
-* Easy Configuration using `config.js` file
 
 ## Prerequisite
 * Node
 * Gatsby CLI (globally installed)
-
-## Getting Started
-Create your own project with Gatsby CLI:
-```shell
-gatsby new yourbusinessname https://github.com/v4iv/gatsby-starter-business.git 
-```
 
 ## Available Scripts
 
@@ -66,7 +45,7 @@ To personalize and configure this Starter open `config.js` file and replace the 
 
 ```javascript
 module.exports = {
-  siteTitle: 'Gatsby Starter Business', // Site title.
+  siteTitle: 'Datamine Consulting', // Site title.
   siteTitleAlt: 'Business', // Alternative site title for SEO.
   siteLogo: '/icons/icon-512x512.png', // Logo used for SEO and manifest.
   siteUrl: 'https://gatsby-starter-business.netlify.com', // Domain of your website without pathPrefix.
@@ -81,7 +60,7 @@ module.exports = {
   userTwitter: 'vaibhaved',
   userLocation: 'Delhi NCR, India',
   userDescription: '',
-  copyright: 'Copyright © Gatsby Starter Business 2018. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
+  copyright: 'Copyright © Datamine Consulting 2018. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff', // Used for setting manifest background color.
 }
