@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-business",
+  "name": "datamine-consulting",
   "version": "2.1.2",
-  "description": "Gatsby Business Website Starter",
+  "description": "Datamine Consulting",
   "main": "index.js",
   "scripts": {
     "develop": "gatsby develop",
