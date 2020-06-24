@@ -43,4 +43,6 @@ nav
 
 @import "~bulma"
 
-.has-bg-img { background: url('../img/logo.png')center center; background-size:contain; background-repeat: no-repeat; }
+.has-bg-img { background: url('../img/logo_mobile.png')center center; background-size: contain; background-repeat: no-repeat; @media only screen and (min-width: 768px ) { background: url('../img/logo.png') no-repeat center center;} }
+
+.hero { @media only screen and (max-width: 768px ) { height: 200px} }

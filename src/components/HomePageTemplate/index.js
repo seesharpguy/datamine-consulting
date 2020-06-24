@@ -18,13 +18,11 @@ const HomePageTemplate = ({
       <title>{meta_title}</title>
       <meta name="description" content={meta_description} />
     </Helmet>
-    <section className="hero is-bold is-large has-bg-img">
+    <section className="hero is-large has-bg-img">
       <div className="hero-body">
-        <div className="container">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-             
-            </div>
+        <div className="container is-fluid">
+          <div className="columns is-full">
+            
           </div>
         </div>
       </div>

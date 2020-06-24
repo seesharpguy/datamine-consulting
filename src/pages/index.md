@@ -3,65 +3,37 @@ templateKey: 'home-page'
 title: Datamine Consulting
 meta_title: Home | Datamine Consulting
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
-heading: Lorem ipsum dolor sit amet
+  Website design services, web development, desktop and mobile application development, as well as software and data services in Lima, OH.
+heading: Our Services
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Website design services, web development, desktop and mobile application development, as well as software and data services in Lima, OH.
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: ../assets/img/web.png
+      feature: >
+        web
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae tincidunt ut, 
-        scelerisque eu sem. Etiam porttitor elit eget mi luctus, vitae blandit enim pretium. 
-        Aenean nec hendrerit leo, a bibendum magna. In hac habitasse platea dictumst. 
-        Suspendisse sapien magna, vestibulum non vehicula id, pellentesque in ante. Nullam 
-        sed auctor tellus. Sed ipsum sem, dapibus nec eros in, feugiat sagittis mi. 
-        Nullam et dui interdum, varius nibh eu, efficitur metus.
-    - image: /img/coffee-gear.png
+        We offer best in class mobile friendly and responsive website and web application development. Our web delivers SEO optimization, allowing your companies clients to easily find you. We offer solutions tailored to your needs, from simple blog sites to enterprise web applications.
+    - image: ../assets/img/app.png
+      feature: >
+        app
       text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
-        ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus 
-        neque id mauris accumsan, nec imperdiet justo eleifend. Nulla viverra, ipsum 
-        sit amet interdum pharetra, felis lorem sollicitudin felis, vehicula finibus 
-        enim nunc facilisis sapien. Donec nulla nisi, dictum quis nibh et, euismod 
-        semper eros. Praesent nunc tortor, consequat eu justo ac, dictum viverra enim. 
-        Etiam sed dui dapibus mauris congue facilisis. Nulla convallis, lectus vel 
-        vehicula interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
-        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
-    - image: /img/tutorials.png
+        Cross platform mobile applications, windows, or mac application development services available.
+    - image: ../assets/img/data.png
+      feature: >
+        data
       text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin 
-        pharetra, ipsum augue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu 
-        pharetra orci, ut malesuada nisl. Aliquam erat volutpat. Curabitur egestas eros tincidunt, 
-        scelerisque lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla. Aliquam 
-        erat volutpat. Vivamus ultrices venenatis maximus. Donec volutpat vitae quam at fringilla. 
-        Sed luctus lacus vel tempus posuere. Ut suscipit auctor tortor. Phasellus leo dui, elementum 
-        non sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet porttitor vehicula, 
-        quam augue pretium erat, at commodo nisl tellus non risus.
-    - image: /img/meeting-space.png
+        Enterprise level data service including data mining, enrichment, transormation, data streaming, and reporting.
+    - image: ../assets/img/simple.png
+      feature: >
+        simple
       text: >
-        Vestibulum libero lectus, dignissim eget magna sit amet, malesuada tincidunt mi. Vivamus 
-        sed erat iaculis mauris efficitur vehicula. Aliquam sed urna at tellus ullamcorper 
-        venenatis molestie ut mi. Duis vel libero ac lectus cursus tempus. Nullam in dictum felis. 
-        Nam sed laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac scelerisque nisi 
-        sodales. Cras tristique laoreet tempor. Mauris vitae dolor eu mauris malesuada cursus. 
-        Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus. Suspendisse potenti. 
-        In tempor, massa quis euismod convallis, felis elit sodales urna, at aliquet mi elit auctor 
-        risus.
+        Simplicity is what gives Datamine Consulting a clear advantage in today's emerging digital market. We aim to provide fast and friendly service with a focus on NPS and User Experience.
 testimonials:
-  - author: Vaibhav Sharma
+  - author: Michael Knowles
     quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
-      Sed quis egestas libero. Vestibulum nec venenatis ligula. 
-  - author: Subarashi San
+      My website was created in just a two weeks, and it wasn't long before I was generating new leads directly as a result of my website. 
+  - author: Sam Davidson
     quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Fast and friendly service. My site is always up, and I am able to manage the content without additional development work, saving me time and most importantly, money.
 ---
